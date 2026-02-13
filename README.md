@@ -63,7 +63,8 @@ A modern, interactive portfolio website with a retro 3D computer interface and i
 
 - **Tech**: React, Three.js, WebGL, Vite, CSS3
 - **Features**: 3D Retro Computer Interface, Interactive Terminal, Modern Design
-- **Links**: [Code Repository](https://github.com/aternosbot90?tab=repositories)
+- **Live**: [https://kunal-portfolio-z0f1.onrender.com/](https://kunal-portfolio-z0f1.onrender.com/)
+- **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
 ### 2. **Sundown Studio**
 A multidisciplinary studio website showcasing creative work and modern responsive design.
@@ -93,11 +94,12 @@ Clean REST APIs with proper route separation, controller-based architecture, and
 - **Features**: API Validation, Error Handling, Postman Testing, Scalable Design
 - **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
-### 6. **Frontend + Backend Integration (React + Node)**
+### 6. **Scatch - Frontend + Backend Integration (React + Node)**
 Real-world full-stack application connecting React frontend with Express + MongoDB backend.
 
 - **Tech**: React, Express.js, MongoDB, REST APIs
 - **Features**: API Consumption, State Management, Full-Stack Communication
+- **Live**: [https://scatch-vl3j.onrender.com/](https://scatch-vl3j.onrender.com/)
 - **Code**: [GitHub](https://github.com/aternosbot90/new-folder/tree/main/Backend/L-Scatch)
 
 ---
@@ -109,12 +111,6 @@ Real-world full-stack application connecting React frontend with Express + Mongo
 ![](https://nirzak-streak-stats.vercel.app/?user=aternosbot90&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aternosbot90&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=aternosbot90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
