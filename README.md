@@ -144,6 +144,4 @@ Real-world full-stack application connecting React frontend with Express + Mongo
 
 **Made with ❤️ by Kunal**
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=aternosbot90&icon=0&color=0)](https://visitcount.itsvg.in)
-
 </div>
