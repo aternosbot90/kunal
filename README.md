@@ -1,6 +1,6 @@
 # Hey there, I'm Kunal 👋
 
-Full-Stack Developer | BCA (Data Science) Student | Building scalable web applications
+Full-Stack Developer | BCA Student | Building scalable web applications
 
 > "Building full-stack applications with a focus on clean backend logic and scalable frontend design."
 
@@ -8,7 +8,7 @@ Full-Stack Developer | BCA (Data Science) Student | Building scalable web applic
 
 ## 🔭 About Me
 
-I'm a BCA (Data Science) student passionate about full-stack web development. I love creating end-to-end solutions with clean, maintainable code. Currently focused on learning Three.js and Next.js while mastering the MERN stack.
+I'm a BCA student passionate about full-stack web development. I love creating end-to-end solutions with clean, maintainable code. Currently focused on learning Three.js and Next.js while mastering the MERN stack.
 
 - 🌱 Currently learning: Advanced React patterns, Three.js, Next.js
 - 🎯 Goal: Become a strong Full-Stack Developer and work at top-tier tech companies (Dream: Google)
