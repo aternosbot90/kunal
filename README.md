@@ -66,35 +66,43 @@ A modern, interactive portfolio website with a retro 3D computer interface and i
 - **Live**: [https://kunal-portfolio-z0f1.onrender.com/](https://kunal-portfolio-z0f1.onrender.com/)
 - **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
-### 2. **Sundown Studio**
+### 2. **PupMarket - Animal kennel buy and sell pups**
+A platform that provides the user to buy and sell and aslo adopt the animals like cat, dogs, birds and other.
+
+- **Tech**: React, node, tailwind, express, react native(mobile)
+- **Features**: listing pups card, message user, bidding of price, adoption free, secure buying with no scam, user verification
+- **Live**: [https://pupmarket.onrender.com/](https://pupmarket.onrender.com/)
+- **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
+
+### 3. **Sundown Studio**
 A multidisciplinary studio website showcasing creative work and modern responsive design.
 
 - **Tech**: React, Vite, Responsive Design
 - **Live**: [https://sundown-q8p2.onrender.com/](https://sundown-q8p2.onrender.com/)
 - **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
-### 3. **Why So Serious - Anime Project**
+### 4. **Why So Serious - Anime Project**
 An anime-themed interactive web application with dark, modern design and smooth animations.
 
 - **Tech**: React, JavaScript, CSS3, Responsive Design
 - **Live**: [https://anime-pnp0.onrender.com/](https://anime-pnp0.onrender.com/)
 - **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
-### 4. **Full-Stack CRUD Application**
+### 5. **Full-Stack CRUD Application**
 A complete backend-driven web application with user authentication, MVC architecture, and MongoDB integration.
 
 - **Tech**: Node.js, Express.js, MongoDB, EJS, JWT Authentication
 - **Features**: User Authentication, CRUD Operations, Server-side Rendering, Postman API Testing
 - **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
-### 5. **REST API Services**
+### 6. **REST API Services**
 Clean REST APIs with proper route separation, controller-based architecture, and comprehensive error handling.
 
 - **Tech**: Express.js, MongoDB, Mongoose, REST Principles
 - **Features**: API Validation, Error Handling, Postman Testing, Scalable Design
 - **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
-### 6. **Scatch - Frontend + Backend Integration (React + Node)**
+### 7. **Scatch - Frontend + Backend Integration (React + Node)**
 Real-world full-stack application connecting React frontend with Express + MongoDB backend.
 
 - **Tech**: React, Express.js, MongoDB, REST APIs
