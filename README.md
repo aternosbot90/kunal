@@ -66,12 +66,12 @@ A modern, interactive portfolio website with a retro 3D computer interface and i
 - **Live**: [https://kunal-portfolio-z0f1.onrender.com/](https://kunal-portfolio-z0f1.onrender.com/)
 - **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
-### 2. **PupMarket - Animal kennel buy and sell pups**
+### 2. **TailEmpire - Animal kennel buy and sell pups**
 A platform that provides the user to buy and sell and aslo adopt the animals like cat, dogs, birds and other.
 
 - **Tech**: React, node, tailwind, express, react native(mobile)
 - **Features**: listing pups card, message user, bidding of price, adoption free, secure buying with no scam, user verification
-- **Live**: [https://pupmarket.onrender.com/](https://pupmarket.onrender.com/)
+- **Live**: [https://pupmarket.onrender.com/](https://tailempire.onrender.com/)
 - **Code**: [GitHub](https://github.com/aternosbot90?tab=repositories)
 
 ### 3. **Sundown Studio**
